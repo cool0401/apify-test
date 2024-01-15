@@ -1,0 +1,33 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore the dist directory, which contains compiled JavaScript files
+dist/
+
+# Ignore any environment-specific configuration files
+.env
+
+# Ignore TypeScript configuration file
+tsconfig.json
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn integrity file
+.yarn-integrity
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows Thumbs.db file
+Thumbs.db
+
+# Ignore any IDE-specific files or directories
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
